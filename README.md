@@ -7,10 +7,10 @@ Here are some ideas to get you started:
 
 -->
 
-## I'm a Java Enthusiast
+## I'm a  Web Enthusiast
 
-- 🔭 I’m currently working on Healthcare Project
-- 🌱 I’m currently learning Android
+
+
 
 
 
